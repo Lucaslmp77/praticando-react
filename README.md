@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/gist/Lucaslmp77/1b7ddd4fa71654053a00ec339243f831/raw/d44ccc5399d9ee435955fb80b244c95f7036d6b5/aprendendo.svg">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
